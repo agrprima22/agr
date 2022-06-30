@@ -18,14 +18,6 @@ python main.py verify synchronous castles
 python main.py verify synchronous bridge
 ```
 
-## Graphical Interface
-
-There is also a graphical interface for the tool available.
-
-### Web version
-
-http://stv.cs-htiew.com
-
 ## License
 
 MIT License
